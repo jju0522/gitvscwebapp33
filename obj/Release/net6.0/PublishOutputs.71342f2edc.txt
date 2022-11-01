@@ -1,0 +1,7 @@
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\vscgit33.exe
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\appsettings.Development.json
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\appsettings.json
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\vscgit33.dll
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\vscgit33.deps.json
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\vscgit33.runtimeconfig.json
+C:\cloud_02\vscgit33\bin\Release\net6.0\publish\vscgit33.pdb
